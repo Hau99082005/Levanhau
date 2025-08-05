@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 export default function HighlightInfo() {
   const listItems = [
     {
-      content: "🎓 GPA: 3.86/4.0 – Học lực xuất sắc tại Hue Industrial College.",
+      content: "🎓 GPA: 3.86/4.0 – Học Lực Xuất Sắc",
     },
     {
       content:
